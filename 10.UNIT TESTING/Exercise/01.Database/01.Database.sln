@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDatabase", "ArrayDatabase\ArrayDatabase.csproj", "{4EDDAB4D-5960-4B96-B4A8-1B1C32D1A7DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{769559B3-0D8D-40BD-8CBC-DA021ED7F6D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDDAB4D-5960-4B96-B4A8-1B1C32D1A7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDDAB4D-5960-4B96-B4A8-1B1C32D1A7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDDAB4D-5960-4B96-B4A8-1B1C32D1A7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDDAB4D-5960-4B96-B4A8-1B1C32D1A7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769559B3-0D8D-40BD-8CBC-DA021ED7F6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769559B3-0D8D-40BD-8CBC-DA021ED7F6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769559B3-0D8D-40BD-8CBC-DA021ED7F6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769559B3-0D8D-40BD-8CBC-DA021ED7F6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A678F79-0CE1-45D4-A47E-03D79BA20BA4}
+	EndGlobalSection
+EndGlobal
